@@ -21,3 +21,6 @@ var registrar = () =>{
 }
 
 document.getElementById("btn").addEventListener("click",registrar)
+
+//prox clase guardar todo en el localStorage
+//cada vez que se presiona el registrar se agregue la lista, y si ya esta registrado que se siga agregando.  Para eliminar lograr mostrar todo lo que esta en la tabla, generar una tabla  y mostrar todo lo q esta guardado
